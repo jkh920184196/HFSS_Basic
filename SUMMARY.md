@@ -17,7 +17,7 @@
   * [資料分析與視覺化](hfss-she-ji-huan-jing-jie-shao/zi-liao-fen-xi-yu-shi-jue-hua.md)
   * [儲存及壓縮](hfss-she-ji-huan-jing-jie-shao/chu-cun-ji-ya-suo.md)
 * [進階](jin-jie/README.md)
-  * [範例與說明文件](jin-jie/fan-li-yu-shuo-ming-wen-jian.md)
+  * [範例](jin-jie/fan-li.md)
   * [模型參數化](jin-jie/mo-xing-can-shu-hua.md)
   * [初始化網格](jin-jie/chu-shi-hua-wang-ge.md)
   * [網格錯誤與模型修正](jin-jie/wang-ge-cuo-wu-yu-mo-xing-xiu-zheng.md)

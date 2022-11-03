@@ -6,7 +6,7 @@
 
 Ribbon是一種以面板及標籤頁為架構的使用者介面，不同標籤頁集合了相似的功能
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 功能窗口
 
@@ -16,7 +16,7 @@ Ribbon是一種以面板及標籤頁為架構的使用者介面，不同標籤�
 
 
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Project Manager(專案管理視窗)
 
