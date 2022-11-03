@@ -2,9 +2,11 @@
 description: Windows作業系統預設安裝目錄
 ---
 
-# 安裝目錄
+# 軟體安裝
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+AEDT一年發布兩個版本，上半年為R1版,下半年為 R2版。安裝新版本不須移除舊版本。License Manager一般可以支援新舊版本。
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Help目錄
 

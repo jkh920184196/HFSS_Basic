@@ -2,8 +2,8 @@
 
 * [HFSS入門課程綱要](README.md)
 * [AEDT操作環境](aedt-cao-zuo-huan-jing/README.md)
-  * [軟體下載及安裝](aedt-cao-zuo-huan-jing/ruan-ti-xia-zai-ji-an-zhuang.md)
-  * [安裝目錄](aedt-cao-zuo-huan-jing/an-zhuang-mu-lu.md)
+  * [Customer Portal](aedt-cao-zuo-huan-jing/customer-portal.md)
+  * [軟體安裝](aedt-cao-zuo-huan-jing/ruan-ti-an-zhuang.md)
   * [啟動及初始畫面](aedt-cao-zuo-huan-jing/qi-dong-ji-chu-shi-hua-mian.md)
   * [環境設定](aedt-cao-zuo-huan-jing/huan-jing-she-ding.md)
 * [HFSS設計環境介紹](hfss-she-ji-huan-jing-jie-shao/README.md)
