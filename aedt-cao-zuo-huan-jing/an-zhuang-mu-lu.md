@@ -1,8 +1,18 @@
+---
+description: Windows作業系統預設安裝目錄
+---
+
 # 安裝目錄
 
-### Examples(範例)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-### Help(說明文檔)
+### Help目錄
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+### HFSS.pdf
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 
 
