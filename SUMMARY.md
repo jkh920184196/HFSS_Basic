@@ -26,6 +26,7 @@
   * [Network Data Explorer](jin-jie/network-data-explorer.md)
   * [Field Calculator](jin-jie/field-calculator.md)
   * [自動化](jin-jie/zi-dong-hua.md)
+  * [技術諮詢](jin-jie/ji-shu-zi-xun.md)
 * [應用解說](ying-yong-jie-shuo/README.md)
   * [天線設計](ying-yong-jie-shuo/tian-xian-she-ji.md)
   * [射頻/微波被動元件設計](ying-yong-jie-shuo/she-bin-wei-bo-bei-dong-yuan-jian-she-ji.md)
