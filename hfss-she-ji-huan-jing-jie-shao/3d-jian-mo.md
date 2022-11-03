@@ -1,6 +1,8 @@
 # 3D建模
 
-### 單位與格點
+### 單位
+
+![](<../.gitbook/assets/image (2).png>)
 
 ### 模型結構特性
 
@@ -12,7 +14,7 @@
 
 | Type   | Object | Face | Edge | Vertex |
 | ------ | :----: | :--: | :--: | :----: |
-| Solids |    V   |   V  |   V  |   VSo  |
+| Solids |    V   |   V  |   V  |    V   |
 | Sheets |        |   V  |   V  |    V   |
 | Lines  |        |      |   V  |    V   |
 | Points |        |      |      |    V   |

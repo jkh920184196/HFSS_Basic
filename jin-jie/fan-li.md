@@ -16,7 +16,7 @@ description: HFSS範例檔
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 開啟範例之後將其存到其他位置再修改或執行，否則會覆蓋原本範例檔案。
