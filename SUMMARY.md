@@ -27,6 +27,7 @@
   * [網格錯誤與模型修正](jin-jie/wang-ge-cuo-wu-yu-mo-xing-xiu-zheng.md)
   * [參數掃描與優化](jin-jie/can-shu-sao-miao-yu-you-hua.md)
   * [3D Component](jin-jie/3d-component.md)
+  * [自定義輸出物理量(Output Variable)](jin-jie/zi-ding-yi-shu-chu-wu-li-liang-output-variable.md)
   * [Network Data Explorer(NDE)](jin-jie/network-data-explorer.md)
   * [S參數模型品質](jin-jie/s-can-shu-mo-xing-pin-zhi.md)
   * [場計算機(Field Calculator)](jin-jie/field-calculator.md)
