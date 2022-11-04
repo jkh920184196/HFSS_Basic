@@ -13,6 +13,10 @@ description: 如何有效尋求原廠技術支援
 
 原廠技術支援需線上填寫Service Request(SR)，待工程師收到SR之後，會以郵件或網路會議方式回覆技術問題，並在資料庫關閉該SR。一般問題處理約1-3個工作天，視問題困難度而定。
 
+### 客戶編號(Customer Number)查詢
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
 ### 問題與資料提供
 
 根據問題種類，客戶可能需要提供相關檔案給原廠工程師做測試或除錯。AEDT檔案建議壓縮成.aedtz檔再行寄送。
