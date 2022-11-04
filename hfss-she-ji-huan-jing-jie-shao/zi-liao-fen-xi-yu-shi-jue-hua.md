@@ -4,7 +4,7 @@
 
 根據模擬結果資料型態的不同，會有不同的Report種類，如下圖：
 
-<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 圖表種類
 

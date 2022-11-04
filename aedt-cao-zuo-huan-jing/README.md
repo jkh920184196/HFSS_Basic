@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://images.ansys.com/is/image/ansys/ansys-electronics-technology-collage?wid=784&op_usm=0.9,1.0,20,0&fit=constrain,0
+cover: https://images.ansys.com/is/image/ansys/2021-01-emi-blue
 coverY: 0
 ---
 
