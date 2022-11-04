@@ -1,5 +1,5 @@
 ---
-description: HFSS範例檔
+description: 初學者可以透過範例來學習HFSS的設定方式
 ---
 
 # 範例
