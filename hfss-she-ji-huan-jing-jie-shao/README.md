@@ -1,5 +1,8 @@
 ---
 description: 高頻被動元件設計及電磁場分析
+cover: >-
+  https://images.ansys.com/is/image/ansys/2020-10-electronics-hfss-airplane-antenna?$highlightblockwithteaser-largeimage-xlarge$
+coverY: 0
 ---
 
 # HFSS設計環境介紹

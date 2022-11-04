@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.ansys.com/is/image/ansys/ansys-electronics-technology-collage?wid=784&op_usm=0.9,1.0,20,0&fit=constrain,0
+coverY: 0
+---
+
 # AEDT操作環境
 
 ### 基本說明
