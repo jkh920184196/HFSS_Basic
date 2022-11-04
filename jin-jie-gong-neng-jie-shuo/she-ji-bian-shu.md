@@ -16,7 +16,7 @@ AEDT的變數分成兩大類，Project層級的變數在project當中所有的�
 
 ![](<../.gitbook/assets/image (5) (1).png>)
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 {% hint style="warning" %}
 使用中的變數無法刪除，需先找到使用該變數的欄位，將該變數移除之後才能刪除該變數。
