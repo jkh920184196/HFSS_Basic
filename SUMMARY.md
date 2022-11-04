@@ -17,7 +17,7 @@
   * [模擬設定](hfss-she-ji-huan-jing-jie-shao/mo-ni-she-ding.md)
   * [有效性檢查 (Validation Check)](hfss-she-ji-huan-jing-jie-shao/you-xiao-xing-jian-cha-validation-check.md)
   * [模擬執行與收斂分析](hfss-she-ji-huan-jing-jie-shao/mo-ni-zhi-hang-yu-shou-lian-fen-xi.md)
-  * [資料分析與視覺化](hfss-she-ji-huan-jing-jie-shao/zi-liao-fen-xi-yu-shi-jue-hua.md)
+  * [模擬資料輸出](hfss-she-ji-huan-jing-jie-shao/mo-ni-zi-liao-shu-chu.md)
   * [場顯示與動畫](hfss-she-ji-huan-jing-jie-shao/chang-xian-shi-yu-dong-hua.md)
   * [檔案壓縮及解壓縮](hfss-she-ji-huan-jing-jie-shao/dang-an-ya-suo-ji-jie-ya-suo.md)
 * [進階](jin-jie/README.md)
