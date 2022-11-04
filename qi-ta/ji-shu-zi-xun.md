@@ -1,5 +1,5 @@
 ---
-description: 如何有效尋求原廠技術支援
+description: 如何有效尋求技術支援
 ---
 
 # 技術諮詢

@@ -10,7 +10,7 @@
 
 資料可以用不同的圖表來呈現，如下圖
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (3).png>)
 
 ### 資料輸出
 
