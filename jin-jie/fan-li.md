@@ -16,7 +16,7 @@ description: 初學者可以透過範例來學習HFSS的設定方式
 
 <figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 開啟範例之後將其存到其他位置再修改或執行，否則會覆蓋原本範例檔案。

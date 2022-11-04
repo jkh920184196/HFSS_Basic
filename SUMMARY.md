@@ -13,6 +13,7 @@
   * [材料庫](hfss-she-ji-huan-jing-jie-shao/cai-liao-ku.md)
   * [激發、端口與邊界條件](hfss-she-ji-huan-jing-jie-shao/ji-fa-duan-kou-yu-bian-jie-tiao-jian.md)
   * [模擬設定](hfss-she-ji-huan-jing-jie-shao/mo-ni-she-ding.md)
+  * [有效性檢查 (Validation Check)](hfss-she-ji-huan-jing-jie-shao/you-xiao-xing-jian-cha-validation-check.md)
   * [模擬執行與收斂分析](hfss-she-ji-huan-jing-jie-shao/mo-ni-zhi-hang-yu-shou-lian-fen-xi.md)
   * [資料分析與視覺化](hfss-she-ji-huan-jing-jie-shao/zi-liao-fen-xi-yu-shi-jue-hua.md)
   * [儲存及壓縮](hfss-she-ji-huan-jing-jie-shao/chu-cun-ji-ya-suo.md)
