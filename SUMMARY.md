@@ -16,7 +16,7 @@
   * [有效性檢查 (Validation Check)](hfss-she-ji-huan-jing-jie-shao/you-xiao-xing-jian-cha-validation-check.md)
   * [模擬執行與收斂分析](hfss-she-ji-huan-jing-jie-shao/mo-ni-zhi-hang-yu-shou-lian-fen-xi.md)
   * [資料分析與視覺化](hfss-she-ji-huan-jing-jie-shao/zi-liao-fen-xi-yu-shi-jue-hua.md)
-  * [儲存及壓縮](hfss-she-ji-huan-jing-jie-shao/chu-cun-ji-ya-suo.md)
+  * [檔案壓縮及解壓縮](hfss-she-ji-huan-jing-jie-shao/dang-an-ya-suo-ji-jie-ya-suo.md)
 * [進階](jin-jie/README.md)
   * [範例](jin-jie/fan-li.md)
   * [設計變數](jin-jie/she-ji-bian-shu.md)
