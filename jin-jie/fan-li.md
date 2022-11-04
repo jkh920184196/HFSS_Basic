@@ -8,7 +8,7 @@ description: HFSS範例檔
 
 ![](<../.gitbook/assets/image (4) (1).png>)
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>範例目錄</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>範例目錄</p></figcaption></figure>
 
 ### HFSS範例目錄
 

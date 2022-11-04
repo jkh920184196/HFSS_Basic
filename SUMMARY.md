@@ -18,7 +18,7 @@
   * [儲存及壓縮](hfss-she-ji-huan-jing-jie-shao/chu-cun-ji-ya-suo.md)
 * [進階](jin-jie/README.md)
   * [範例](jin-jie/fan-li.md)
-  * [模型參數化](jin-jie/mo-xing-can-shu-hua.md)
+  * [設計變數](jin-jie/she-ji-bian-shu.md)
   * [初始化網格](jin-jie/chu-shi-hua-wang-ge.md)
   * [網格錯誤與模型修正](jin-jie/wang-ge-cuo-wu-yu-mo-xing-xiu-zheng.md)
   * [參數掃描與優化](jin-jie/can-shu-sao-miao-yu-you-hua.md)
