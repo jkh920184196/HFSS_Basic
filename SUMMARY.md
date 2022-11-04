@@ -26,6 +26,7 @@
   * [初始化網格](jin-jie-gong-neng-jie-shuo/chu-shi-hua-wang-ge.md)
   * [網格錯誤與模型修正](jin-jie-gong-neng-jie-shuo/wang-ge-cuo-wu-yu-mo-xing-xiu-zheng.md)
   * [參數掃描與優化](jin-jie-gong-neng-jie-shuo/can-shu-sao-miao-yu-you-hua.md)
+  * [批量模擬](jin-jie-gong-neng-jie-shuo/pi-liang-mo-ni.md)
   * [3D Component](jin-jie-gong-neng-jie-shuo/3d-component.md)
   * [自定義輸出物理量(Output Variable)](jin-jie-gong-neng-jie-shuo/zi-ding-yi-shu-chu-wu-li-liang-output-variable.md)
   * [Network Data Explorer(NDE)](jin-jie-gong-neng-jie-shuo/network-data-explorer-nde.md)
