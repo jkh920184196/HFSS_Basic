@@ -4,7 +4,7 @@
 
 主要設定解題的頻率點擊收斂條件。
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 根據問題特性，可以透過設置選項來改善模擬速度。
 
