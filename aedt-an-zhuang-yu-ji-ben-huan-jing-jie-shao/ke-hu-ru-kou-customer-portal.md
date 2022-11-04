@@ -2,9 +2,13 @@
 description: 提供軟體下載與相關技術文件
 ---
 
-# Customer Portal
+# 客戶入口(Customer Portal)
+
+
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://support.ansys.com/" %}
 
 ### Electronics與License Manager下載
 

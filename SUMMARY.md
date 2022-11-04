@@ -1,11 +1,12 @@
 # Table of contents
 
 * [HFSS入門課程](README.md)
-* [AEDT操作環境](aedt-cao-zuo-huan-jing/README.md)
-  * [Customer Portal](aedt-cao-zuo-huan-jing/customer-portal.md)
-  * [軟體安裝目錄](aedt-cao-zuo-huan-jing/ruan-ti-an-zhuang-mu-lu.md)
-  * [啟動及初始畫面](aedt-cao-zuo-huan-jing/qi-dong-ji-chu-shi-hua-mian.md)
-  * [選項設定](aedt-cao-zuo-huan-jing/xuan-xiang-she-ding.md)
+* [AEDT安裝與基本環境介紹](aedt-an-zhuang-yu-ji-ben-huan-jing-jie-shao/README.md)
+  * [客戶入口(Customer Portal)](aedt-an-zhuang-yu-ji-ben-huan-jing-jie-shao/ke-hu-ru-kou-customer-portal.md)
+  * [AEDT安裝](aedt-an-zhuang-yu-ji-ben-huan-jing-jie-shao/aedt-an-zhuang.md)
+  * [軟體安裝目錄](aedt-an-zhuang-yu-ji-ben-huan-jing-jie-shao/ruan-ti-an-zhuang-mu-lu.md)
+  * [啟動及初始畫面](aedt-an-zhuang-yu-ji-ben-huan-jing-jie-shao/qi-dong-ji-chu-shi-hua-mian.md)
+  * [選項設定](aedt-an-zhuang-yu-ji-ben-huan-jing-jie-shao/xuan-xiang-she-ding.md)
 * [HFSS設計環境介紹](hfss-she-ji-huan-jing-jie-shao/README.md)
   * [視窗說明](hfss-she-ji-huan-jing-jie-shao/shi-chuang-shuo-ming.md)
   * [解題器 (Solutuin)](hfss-she-ji-huan-jing-jie-shao/jie-ti-qi-solutuin.md)
