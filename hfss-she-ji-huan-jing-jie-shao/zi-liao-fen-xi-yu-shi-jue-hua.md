@@ -16,7 +16,7 @@
 
 選定Report及圖表之後，接下來就是要在圖表當中加入要檢視的資料。資料依照類別(Category)選擇對應之物理量(Quantity)，接著用函數(Function)處理該物理量。
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### 圖表格式
 
