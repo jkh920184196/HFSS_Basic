@@ -12,7 +12,7 @@ description: 與第三方軟體模型交換
 
 ### 支援匯入3D格式
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 支援匯出3D格式
 
@@ -22,13 +22,13 @@ description: 與第三方軟體模型交換
 
 主要用在電路板以及封裝設計
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 支援匯入Layout格式
 
 會匯入到3D Layout。可以再從3D Layout轉回HFSS
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### 支援匯出Layout格式
 

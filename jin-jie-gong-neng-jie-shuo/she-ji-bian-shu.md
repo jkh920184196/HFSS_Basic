@@ -14,7 +14,7 @@ description: 讓設計更彈性
 
 AEDT的變數分成兩大類，Project層級的變數在project當中所有的設計都可以參考到，以$開頭，比方說$dx。design層級的變數只有該design可以參考到，不影響其他design。兩者設定方式類似。一旦設定完成之後，便可以在屬性視窗加以修改。
 
-![](<../.gitbook/assets/image (5) (1) (1).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 ![](<../.gitbook/assets/image (1) (1).png>)
 

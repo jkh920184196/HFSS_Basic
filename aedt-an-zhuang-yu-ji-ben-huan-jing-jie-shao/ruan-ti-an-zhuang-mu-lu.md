@@ -10,7 +10,7 @@ AEDT一年發布兩個版本，上半年為R1版,下半年為 R2版。安裝新�
 
 ### Help目錄
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### HFSS.pdf
 

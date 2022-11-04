@@ -10,4 +10,4 @@ description: 客制化操作環境
 
 AEDT新加入的功能。但是因為還沒完整測試，所以放在Beta選項當中。如果想要嘗鮮，可以勾選要試用的選項並重新啟動AEDT即可。
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
