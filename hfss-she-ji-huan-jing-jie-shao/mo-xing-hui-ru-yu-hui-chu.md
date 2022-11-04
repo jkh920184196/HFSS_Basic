@@ -12,7 +12,7 @@ description: 與第三方軟體模型交換
 
 ### 支援匯入3D格式
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 支援匯出3D格式
 
@@ -22,7 +22,7 @@ description: 與第三方軟體模型交換
 
 主要用在電路板以及封裝設計
 
-<figure><img src="../.gitbook/assets/image (4) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### 支援匯入Layout格式
 
