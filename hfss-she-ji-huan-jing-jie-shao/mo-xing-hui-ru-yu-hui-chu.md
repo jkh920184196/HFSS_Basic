@@ -22,7 +22,9 @@ description: 與第三方軟體模型交換
 
 主要用在電路板以及封裝設計
 
-### 支援匯入Layout格式，
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+### 支援匯入Layout格式
 
 會匯入到3D Layout。可以再從3D Layout轉回HFSS
 
