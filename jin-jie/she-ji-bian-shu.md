@@ -18,6 +18,10 @@ AEDT的變數分成兩大類，Project層級的變數在project當中所有的�
 
 ![](../.gitbook/assets/image.png)
 
+{% hint style="warning" %}
+使用中的變數無法刪除，需先找到使用該變數的欄位，將該變數移除之後才能刪除該變數。
+{% endhint %}
+
 ### 變數型態
 
 變數數值可以是數值、數值陣列或是由其他變數組成的表示式
