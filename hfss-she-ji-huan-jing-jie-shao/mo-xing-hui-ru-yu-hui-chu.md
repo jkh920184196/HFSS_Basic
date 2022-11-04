@@ -12,7 +12,7 @@ description: 與第三方軟體模型交換
 
 ### 支援匯入3D格式
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 支援匯出3D格式
 
