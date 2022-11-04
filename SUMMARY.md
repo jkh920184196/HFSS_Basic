@@ -10,6 +10,7 @@
   * [視窗說明](hfss-she-ji-huan-jing-jie-shao/shi-chuang-shuo-ming.md)
   * [解題器 (Solutuin)](hfss-she-ji-huan-jing-jie-shao/jie-ti-qi-solutuin.md)
   * [3D建模](hfss-she-ji-huan-jing-jie-shao/3d-jian-mo.md)
+  * [模型匯入與匯出](hfss-she-ji-huan-jing-jie-shao/mo-xing-hui-ru-yu-hui-chu.md)
   * [材料庫](hfss-she-ji-huan-jing-jie-shao/cai-liao-ku.md)
   * [激發、端口與邊界條件](hfss-she-ji-huan-jing-jie-shao/ji-fa-duan-kou-yu-bian-jie-tiao-jian.md)
   * [模擬設定](hfss-she-ji-huan-jing-jie-shao/mo-ni-she-ding.md)
