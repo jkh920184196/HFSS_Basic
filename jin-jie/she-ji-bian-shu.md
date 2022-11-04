@@ -30,4 +30,4 @@ AEDT的變數分成兩大類，Project層級的變數在project當中所有的�
 
 如果該變數已存在，物件會立即更改該屬性。如果輸入的為新變數，則會跳出Add Variable視窗讓使用者可以即時加入所需的變數。
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
