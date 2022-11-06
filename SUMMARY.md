@@ -29,6 +29,7 @@
   * [批量模擬](jin-jie-gong-neng-jie-shuo/pi-liang-mo-ni.md)
   * [3D Component](jin-jie-gong-neng-jie-shuo/3d-component.md)
   * [自定義輸出物理量(Output Variable)](jin-jie-gong-neng-jie-shuo/zi-ding-yi-shu-chu-wu-li-liang-output-variable.md)
+  * [差分對及混合模S參數](jin-jie-gong-neng-jie-shuo/cha-fen-dui-ji-hun-he-moscan-shu.md)
   * [Network Data Explorer(NDE)](jin-jie-gong-neng-jie-shuo/network-data-explorer-nde.md)
   * [S參數模型品質](jin-jie-gong-neng-jie-shuo/s-can-shu-mo-xing-pin-zhi.md)
   * [場計算機(Field Calculator)](jin-jie-gong-neng-jie-shuo/chang-ji-suan-ji-field-calculator.md)
