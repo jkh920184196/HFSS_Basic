@@ -28,9 +28,9 @@ description: 與第三方軟體模型交換
 
 會匯入到3D Layout。可以再從3D Layout轉回HFSS
 
-<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 支援匯出Layout格式
 
-<figure><img src="../.gitbook/assets/image (4) (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
