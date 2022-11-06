@@ -5,7 +5,7 @@ HFSS解題的第一步便是根據結構自動產生初始網格(initial mesh)�
 * Classical
 * Tau
 
-![](<../.gitbook/assets/image (2) (3) (1) (1).png>)
+<figure><img src="../.gitbook/assets/image (2) (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 物件網格
 
