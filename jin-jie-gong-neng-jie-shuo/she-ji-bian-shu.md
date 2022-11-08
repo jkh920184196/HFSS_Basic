@@ -24,10 +24,14 @@ AEDT的變數分成兩大類，Project層級的變數在project當中所有的�
 
 ### 變數型態
 
-變數數值可以是數值、數值陣列或是由其他變數組成的表示式
+變數數值可以是數值、數值陣列或是由其他變數組成的表示式d
 
 ### 將物件屬性改為變數
 
 如果該變數已存在，物件會立即更改該屬性。如果輸入的為新變數，則會跳出Add Variable視窗讓使用者可以即時加入所需的變數。
+
+
+
+
 
 <figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
