@@ -1,4 +1,4 @@
-# 激發、端口與邊界條件
+# 激發與端口
 
 ### Excitation(激發)
 
@@ -17,9 +17,4 @@
 | Circuit Port |   V   |     V    |
 | FLoquet Port |   V   |          |
 
-### Boundary(邊界)
-
-可以分成
-
-* 開放型：Radiation、FEBI、PML
-* 封閉型：PEC、PMC、Impedance、Layered Impedance等等
+###
