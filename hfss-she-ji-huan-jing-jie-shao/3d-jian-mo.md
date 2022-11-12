@@ -43,12 +43,7 @@
 
 ###
 
-### 座標系統
-
-* Global CS
-* Relative CS
-* Face CS
-* Object CS
+###
 
 ### 常用熱鍵
 
