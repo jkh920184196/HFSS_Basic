@@ -2,7 +2,7 @@
 description: 根據應用選擇適當的解題及設定，最常用的是HFSS + Network Analysis + Terminal + Radiation
 ---
 
-# 解題器 (Solutuin)
+# 解題器 (Solution)
 
 <figure><img src="../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 

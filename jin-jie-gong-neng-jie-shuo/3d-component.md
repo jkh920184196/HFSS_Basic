@@ -8,4 +8,4 @@
 
 使用者在完成設計之後，可以啟動建立3D元件視窗來，填寫所需欄位便可以建立3D Component。3D Component的附檔名為.a3dcomp。
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
