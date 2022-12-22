@@ -17,4 +17,16 @@
 | Circuit Port |   V   |     V    |
 | FLoquet Port |   V   |          |
 
-###
+### Wave Port設定
+
+
+
+
+
+### Lumped Port設定
+
+
+
+
+
+### Circuit Port設定
