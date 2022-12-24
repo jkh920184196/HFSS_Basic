@@ -10,7 +10,6 @@
   * [選項設定](aedt-an-zhuang-yu-ji-ben-huan-jing-jie-shao/xuan-xiang-she-ding.md)
 * [HFSS設計環境介紹](hfss-she-ji-huan-jing-jie-shao/README.md)
   * [視窗說明](hfss-she-ji-huan-jing-jie-shao/shi-chuang-shuo-ming.md)
-  * [常用熱鍵](hfss-she-ji-huan-jing-jie-shao/chang-yong-re-jian.md)
   * [檔案壓縮及解壓縮](hfss-she-ji-huan-jing-jie-shao/dang-an-ya-suo-ji-jie-ya-suo.md)
 * [模擬前準備](mo-ni-qian-zhun-bei/README.md)
   * [解題器 (Solution)](hfss-she-ji-huan-jing-jie-shao/jie-ti-qi-solutuin.md)

@@ -12,6 +12,6 @@ description: 材料是以專案為單位，專案當中所有的設計都可以�
 
 加入新材料
 
-![](<../.gitbook/assets/image (8).png>)
+![](../.gitbook/assets/image.png)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
