@@ -6,7 +6,7 @@ description: 初學者可以透過範例來學習HFSS的設定方式
 
 ### 開啟範例目錄
 
-![](<../.gitbook/assets/image (4) (1) (1).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>範例目錄</p></figcaption></figure>
 

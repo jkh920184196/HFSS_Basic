@@ -17,7 +17,7 @@ description: 如何有效尋求技術支援
 
 在填寫SR時，當中有欄位需要填寫客戶編號，SR網站會根據編號轉送到適當的技術支援工程師手上。使用者可以在HFSS當中找到客戶編號(8位數字)，如下圖所示：
 
-<figure><img src="../.gitbook/assets/image (3) (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 問題與資料提供
 
