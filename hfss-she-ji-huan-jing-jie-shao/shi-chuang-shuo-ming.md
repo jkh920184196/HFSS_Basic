@@ -6,7 +6,7 @@ description: 使用者操作介面簡介
 
 ### 選單
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Ribbon
 
@@ -38,13 +38,13 @@ Project Manager(專案管理視窗)
 
 訊息顯示，訊息又分為一般、警告及錯誤訊息等。當操作或模擬發生 錯誤，訊息視窗會顯示原因或解決方法。
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Progress(進度視窗)
 
 進度顯示條
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 Component Libraries(元件庫視窗)
 
@@ -56,4 +56,4 @@ Component Libraries(元件庫視窗)
 
 回復出廠預設布局，或是儲存或回復使用者自訂布局
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>

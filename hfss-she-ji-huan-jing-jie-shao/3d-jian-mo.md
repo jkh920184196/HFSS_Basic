@@ -8,7 +8,7 @@
 
 可以分成Solids, Sheets, Lines及Point四大類
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 每一種結構包含不同幾何特性
 
