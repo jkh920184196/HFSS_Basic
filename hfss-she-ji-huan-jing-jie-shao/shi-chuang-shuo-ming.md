@@ -50,7 +50,7 @@ Component Libraries(元件庫視窗)
 
 內建常用3D模型庫
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (2).png>)
 
 ### 視窗布局、開啟與關閉
 
