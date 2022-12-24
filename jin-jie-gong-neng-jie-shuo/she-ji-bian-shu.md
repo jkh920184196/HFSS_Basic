@@ -34,4 +34,4 @@ AEDT的變數分成兩大類，Project層級的變數在project當中所有的�
 
 
 
-<figure><img src="../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
