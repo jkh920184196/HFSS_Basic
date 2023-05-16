@@ -43,6 +43,7 @@
   * [S參數模型品質](jin-jie-gong-neng-jie-shuo/s-can-shu-mo-xing-pin-zhi.md)
   * [場計算機(Field Calculator)](jin-jie-gong-neng-jie-shuo/chang-ji-suan-ji-field-calculator.md)
   * [自動化](jin-jie-gong-neng-jie-shuo/zi-dong-hua.md)
+  * [Microsoft HPC Pack](jin-jie-gong-neng-jie-shuo/microsoft-hpc-pack.md)
 * [應用解說](ying-yong-jie-shuo/README.md)
   * [射頻/微波設計](ying-yong-jie-shuo/tian-xian-she-ji.md)
     * [偶極子天線模擬操作](cao-zuo-fan-li/tian-xian-mo-ni.md)
