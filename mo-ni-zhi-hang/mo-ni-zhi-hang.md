@@ -10,7 +10,7 @@ description: 啟動模擬引擎
 
 從菜單執行
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 從設定選單執行
 
