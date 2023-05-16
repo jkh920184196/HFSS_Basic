@@ -6,11 +6,16 @@ description: 對所有的設計定義規定
 
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Set Material Override
-* Lossy Dielectrics
-* DC Extrapolation
-* Validations
-* S Parameters
-* Adaptive Mesh
-* Export On Completion
+### 常用設定
+
+1. **Set Material Override**：選項卡包含一個文字說明和一個允許金屬覆蓋介電質的勾選框。這個功能的目的是讓你在建模時避免進行明確的剪除操作。一個應用範例是一根穿越許多介電層的導通孔，當這個選項被啟用時，導通孔並不需要從各層中剪除。
+2.  **Lossy Dielectrics**：選項卡適用於求解器和後處理程序的頻率相關損耗材料。在設計中，材料並不會被修改。反而，Djordjevic-Sarkar模型會在材料傳遞至求解器或用於後處理之前應用。
+
+    * **自動使用因果材料**（預設為未勾選）。如果分配的材料已經具有頻率依賴性，則會忽略頻率依賴損耗材料的自動創建。
+
+    此功能適用於當您只有簡單的固定材料特性可用，但想要自動應用一般性的頻率依賴性以確保在進行頻率掃描時產生因果解
+3. **Validations**：提供了模型驗證和HFSS驗證的選擇，以控制進行驗證的程度，因此也就涉及到需要的時間。
+4. **Export On Completion**：這個功能允許您在模擬完成後自動導出結果。這可以節省您手動導出結果的時間，並且可以在批量模擬時更容易管理結果。
+
+
 
