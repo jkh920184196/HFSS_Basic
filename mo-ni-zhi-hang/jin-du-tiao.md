@@ -4,7 +4,7 @@ description: 在HFSS中，進度視窗（Progress window）用來在模擬運行
 
 # 進度條
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### 中止或停止模擬進度
 

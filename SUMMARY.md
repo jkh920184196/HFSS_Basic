@@ -26,6 +26,7 @@
   * [模擬執行](mo-ni-zhi-hang/mo-ni-zhi-hang.md)
   * [批量模擬](jin-jie-gong-neng-jie-shuo/pi-liang-mo-ni.md)
   * [進度條](mo-ni-zhi-hang/jin-du-tiao.md)
+  * [Solution視窗](mo-ni-zhi-hang/solution-shi-chuang.md)
   * [模擬紀錄(Profile)與收斂曲線圖](mo-ni-zhi-hang/mo-ni-ji-lu-profile-yu-shou-lian-qu-xian-tu.md)
 * [模擬後資料處理與分析](mo-ni-hou-zi-liao-chu-li-yu-fen-xi/README.md)
   * [模擬報告輸出](hfss-she-ji-huan-jing-jie-shao/zi-liao-fen-xi-yu-shi-jue-hua.md)

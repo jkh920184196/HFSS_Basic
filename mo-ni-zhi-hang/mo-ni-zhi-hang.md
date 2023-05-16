@@ -6,7 +6,7 @@ description: 啟動模擬引擎
 
 從Ribbon當中執行
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 從菜單執行
 
@@ -14,4 +14,4 @@ description: 啟動模擬引擎
 
 從設定選單執行
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (3).png>)
