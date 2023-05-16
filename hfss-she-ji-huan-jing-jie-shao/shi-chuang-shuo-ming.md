@@ -20,13 +20,13 @@ Ribbon是一種以面板及標籤頁為架構的使用者介面，不同標籤�
 
 在3D模型視窗當中轉動滾輪可以放大，縮小。Alt+點擊視窗不同位置會切換不同視角。按住滾輪移動滑鼠可以旋轉視角。
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Project Manager(專案管理視窗)
 
 管理專案、設計、端口、邊界、模擬設定、報告、材料庫等
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (2).png>)
 
 #### Properties(屬性視窗)
 
