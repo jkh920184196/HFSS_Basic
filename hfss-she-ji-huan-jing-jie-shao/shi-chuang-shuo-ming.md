@@ -22,7 +22,7 @@ Ribbon是一種以面板及標籤頁為架構的使用者介面，不同標籤�
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-Project Manager(專案管理視窗)
+#### Project Manager(專案管理視窗)
 
 管理專案、設計、端口、邊界、模擬設定、報告、材料庫等
 
@@ -46,7 +46,7 @@ Project Manager(專案管理視窗)
 
 <figure><img src="../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
 
-Component Libraries(元件庫視窗)
+#### Component Libraries(元件庫視窗)
 
 內建常用3D模型庫
 
