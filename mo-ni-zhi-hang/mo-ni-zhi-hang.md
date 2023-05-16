@@ -14,4 +14,4 @@ description: 啟動模擬引擎
 
 從設定選單執行
 
-![](<../.gitbook/assets/image (5) (3) (1).png>)
+![](<../.gitbook/assets/image (5) (3) (1) (1).png>)

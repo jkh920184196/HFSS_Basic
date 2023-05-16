@@ -31,7 +31,7 @@ description: HFSS 3D建模有特定的邏輯與規則
 
 ### 鎖點
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (3).png>)
 
 ### 基礎模型建立及編輯
 
