@@ -4,8 +4,6 @@ description: 在Ansys Electronics Desktop生成解決方案時，或在解決方
 
 # Solution視窗
 
-
-
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ### 模擬相關統計訊息
