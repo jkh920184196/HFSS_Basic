@@ -14,4 +14,4 @@ description: 材料是以專案為單位，專案當中所有的設計都可以�
 
 ![](../.gitbook/assets/image.png)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption></figcaption></figure>
