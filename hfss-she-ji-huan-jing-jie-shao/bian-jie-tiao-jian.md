@@ -22,5 +22,3 @@ description: 用來模擬實際世界中的物理情況
 {% hint style="info" %}
 HFSS預設模擬邊界為封閉型，即所有模型接觸背景的面皆默認為PEC。
 {% endhint %}
-
-### 開放型邊界
