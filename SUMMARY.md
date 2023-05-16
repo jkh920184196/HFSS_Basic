@@ -30,7 +30,7 @@
   * [模擬紀錄(Profile)與收斂曲線圖](mo-ni-zhi-hang/mo-ni-ji-lu-profile-yu-shou-lian-qu-xian-tu.md)
 * [模擬後資料處理與分析](mo-ni-hou-zi-liao-chu-li-yu-fen-xi/README.md)
   * [模擬報告輸出](hfss-she-ji-huan-jing-jie-shao/zi-liao-fen-xi-yu-shi-jue-hua.md)
-  * [場顯示與動畫](hfss-she-ji-huan-jing-jie-shao/chang-xian-shi-yu-dong-hua.md)
+  * [場顯示](hfss-she-ji-huan-jing-jie-shao/chang-xian-shi-yu-dong-hua.md)
   * [電路模型匯出](mo-ni-hou-zi-liao-chu-li-yu-fen-xi/dian-lu-mo-xing-hui-chu.md)
 * [進階功能解說](jin-jie-gong-neng-jie-shuo/README.md)
   * [內建範例](jin-jie-gong-neng-jie-shuo/fan-li.md)

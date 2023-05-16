@@ -6,7 +6,7 @@
 
 通過檢查這些計算資源或設定檔資料，您可以了解分析過程中各個任務的執行時間以及所需的記憶體資源。這可以幫助您評估分析的效率和資源需求，並優化計算設定以達到更好的性能。
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 收斂曲線
 

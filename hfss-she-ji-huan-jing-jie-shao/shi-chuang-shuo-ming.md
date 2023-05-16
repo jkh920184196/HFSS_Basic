@@ -50,7 +50,7 @@ Ribbon是一種以面板及標籤頁為架構的使用者介面，不同標籤�
 
 內建常用3D模型庫
 
-![](<../.gitbook/assets/image (8) (2).png>)
+![](<../.gitbook/assets/image (8) (2) (1).png>)
 
 ### 視窗布局、開啟與關閉
 
