@@ -17,7 +17,7 @@
   * [設計設定](mo-ni-qian-zhun-bei/she-ji-she-ding.md)
   * [材料設定](hfss-she-ji-huan-jing-jie-shao/cai-liao-ku.md)
   * [3D建模](hfss-she-ji-huan-jing-jie-shao/3d-jian-mo.md)
-  * [模型匯入與匯出](hfss-she-ji-huan-jing-jie-shao/mo-xing-hui-ru-yu-hui-chu.md)
+  * [MCAD/ECAD模型匯入與匯出](hfss-she-ji-huan-jing-jie-shao/mo-xing-hui-ru-yu-hui-chu.md)
   * [激發與端口](hfss-she-ji-huan-jing-jie-shao/ji-fa-duan-kou-yu-bian-jie-tiao-jian.md)
   * [邊界條件](hfss-she-ji-huan-jing-jie-shao/bian-jie-tiao-jian.md)
   * [網格初始化](mo-ni-qian-zhun-bei/wang-ge-chu-shi-hua.md)
