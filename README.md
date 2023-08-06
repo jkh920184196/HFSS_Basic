@@ -18,14 +18,5 @@ ANSYS台北訓練教室
 
 ### 課程時間
 
-|      時間     |           進度           |
-| :---------: | :--------------------: |
-|  9:30-10:10 |    AEDT\&HFSS操作介面介紹    |
-| 10:20-11:00 |      HFSS模擬流程基礎(I)     |
-| 11:10-11:50 |     HFSS模擬流程基礎(II)     |
-| 11:50-13:10 | 用餐。用完餐可搭電梯至101 35F風景攬勝 |
-| 13:10-13:50 |      應用解說與實機操作(I)      |
-| 14:00-14:40 |      應用解說與實機操作(II)     |
-| 14:50-15:30 |         進階功能介紹         |
-| 15:40-16:00 |          問題討論          |
+<table><thead><tr><th width="145" align="center">時間</th><th align="center">進度</th></tr></thead><tbody><tr><td align="center">9:30-10:10</td><td align="center">AEDT&#x26;HFSS操作介面介紹</td></tr><tr><td align="center">10:20-11:00</td><td align="center">HFSS模擬流程基礎(I)</td></tr><tr><td align="center">11:10-11:50</td><td align="center">HFSS模擬流程基礎(II)</td></tr><tr><td align="center">11:50-13:10</td><td align="center">用餐。用完餐可搭電梯至101 35F風景攬勝</td></tr><tr><td align="center">13:10-13:50</td><td align="center">應用解說與實機操作(I)</td></tr><tr><td align="center">14:00-14:40</td><td align="center">應用解說與實機操作(II)</td></tr><tr><td align="center">14:50-15:30</td><td align="center">進階功能介紹</td></tr><tr><td align="center">15:40-16:00</td><td align="center">問題討論</td></tr></tbody></table>
 
