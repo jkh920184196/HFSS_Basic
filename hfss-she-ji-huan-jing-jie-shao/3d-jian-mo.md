@@ -18,7 +18,7 @@ description: HFSS 3D建模有特定的邏輯與規則
 
 可以分成Solids, Sheets, Lines及Point四大類
 
-![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 
 每一種結構包含不同幾何特性
 
@@ -49,7 +49,7 @@ description: HFSS 3D建模有特定的邏輯與規則
 
 **導角**
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 **線面運算**
 
