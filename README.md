@@ -6,6 +6,8 @@ coverY: 0
 
 # HFSS入門課程
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### 課程目的
 
 HFSS入門課程的目的是讓使用者能夠熟悉HFSS操作環境並掌握其基本功能，以便能夠進行建模、模擬和資料分析。這門課程旨在提供一個全面的HFSS學習體驗，從HFSS的介紹開始，到操作界面的熟悉，再到建模和模擬的具體步驟。通過實際的範例和練習，學習者將能夠了解HFSS的運作原理、各項功能的運用方式以及如何解讀和分析模擬結果。
