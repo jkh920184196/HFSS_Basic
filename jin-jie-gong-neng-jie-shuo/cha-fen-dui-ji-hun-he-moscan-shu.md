@@ -7,4 +7,4 @@
 
 總的來說，差分對是信號傳輸的一種方式，而混合模式S參數是描述這種傳輸方式性能的參數。在許多高速數位和RF電路設計中，這兩種概念都是非常重要的。
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
